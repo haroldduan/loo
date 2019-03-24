@@ -1,3 +1,8 @@
 face_recognition_models==0.3.0
 face_recognition==1.2.3
 Flask==1.0.2
+#soaplib==2.0.0b2
+client==0.0.1
+suds==0.4
+#Flask-Enterprise==1.0
+ladon==1.0.5
